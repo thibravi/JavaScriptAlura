@@ -26,3 +26,5 @@ for (let i = 0; i < splitNames.length; i++){
 let juntandoNomes = splitNames.join(" ")
 
 console.log(juntandoNomes)
+
+//.

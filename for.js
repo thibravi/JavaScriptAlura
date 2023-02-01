@@ -8,3 +8,5 @@ for (let i = 0; i < numeros.length; i++){
     // estamos pedindo para mostrar o valor do índice e o valor do numeros
     console.log(i, numeros[i])
 }
+
+//.

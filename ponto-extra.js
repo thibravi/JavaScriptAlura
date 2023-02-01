@@ -6,3 +6,5 @@ console.log(notasAtualizadas)
 
 //o foreach é um método que não retorna nada, somente executa o que está dentro do bloco
 //o map executa e retorna uma array atualizada
+
+//.

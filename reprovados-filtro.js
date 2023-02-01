@@ -7,3 +7,4 @@ console.log(`Reprovados: ${reprovados}`)
 
 
 //o filtro é um método que funciona na base do true / false
+//.
